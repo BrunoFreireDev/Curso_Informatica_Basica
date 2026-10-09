@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,55:0f172a,100:020617&height=180&section=header&text=Curso%20de%20Inform%C3%A1tica%20B%C3%A1sica&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-[![GitHub Repo](https://img.shields.io/badge/Repositório-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoFreireDev/curso_informatica_basica)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-freire-log)
 [![Status](https://img.shields.io/badge/Status-Concluído-38bdf8?style=for-the-badge)]()
 
 <br>
